@@ -1,0 +1,10 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\bin\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\bin\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\bin\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\obj\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\obj\Debug\Kuantum_Sayılarına_Göre_Katman_Sayısını_Bulma.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\obj\Debug\Kuantum_Sayılarına_Göre_Katman_Sayısını_Bulma.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\obj\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\obj\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.csproj.CoreCompileInputs.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\obj\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Kuantum Sayılarına Göre Katman Sayısını Bulma\Kuantum Sayılarına Göre Katman Sayısını Bulma\obj\Debug\Kuantum Sayılarına Göre Katman Sayısını Bulma.pdb
